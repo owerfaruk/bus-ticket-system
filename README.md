@@ -79,5 +79,3 @@ These files are automatically created if they do not exist.
 ## 📄 License
 
 This project is created for educational purposes only.
-
-Feel free to improve the system by adding features such as seat maps, payment simulation, or a graphical interface.
