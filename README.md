@@ -75,7 +75,3 @@ These files are automatically created if they do not exist.
 **Ömer Faruk Aşık**
 
 ---
-
-## 📄 License
-
-This project is created for educational purposes only.
